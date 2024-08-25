@@ -188,4 +188,4 @@ The package integrates with Laravel's logging system to provide detailed logs of
 
 ## License
 
-This package is licensed under the MIT License. See the LICENSE file for more details.
+This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
