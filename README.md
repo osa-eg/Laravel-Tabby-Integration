@@ -22,7 +22,7 @@ composer require osa-eg/laravel-tabby-integration
 Publish the configuration file:
 
 ```bash
-php artisan vendor:publish --provider="Osama\TabbyIntegration\TabbyServiceProvider"
+php artisan vendor:publish --provider="Osama\TabbyIntegration\Providers\TabbyServiceProvider"
 ```
 
 In your `.env` file, add the following configurations:
