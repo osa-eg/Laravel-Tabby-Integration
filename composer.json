@@ -1,0 +1,33 @@
+{
+    "name": "osama/laravel-tabby-integration",
+    "description": "The package acts as a Laravel integration for the Tabby API, allowing developers to easily create sessions, handle payments, and manage webhooks in their applications.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Osama\\LaravelTabbyIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osama Saad",
+            "email": "osama.96.eg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Osama\\TabbyIntegration\\Providers\\TabbyServiceProvider"
+            ],
+            "aliases": {
+                "Tabby": "Osama\\TabbyIntegration\\Facades\\Tabby"
+            }
+        }
+    }
+}
