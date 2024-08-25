@@ -1,5 +1,5 @@
 {
-    "name": "osama/laravel-tabby-integration",
+    "name": "osa-eg/laravel-tabby-integration",
     "description": "The package acts as a Laravel integration for the Tabby API, allowing developers to easily create sessions, handle payments, and manage webhooks in their applications.",
     "type": "library",
     "license": "MIT",

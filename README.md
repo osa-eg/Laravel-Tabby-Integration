@@ -14,7 +14,7 @@
 To install the package, use Composer:
 
 ```bash
-composer require osama/laravel-tabby-integration
+composer require osa-eg/laravel-tabby-integration
 ```
 
 ## Configuration
