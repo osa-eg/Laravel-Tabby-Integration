@@ -9,6 +9,11 @@
 - Integrated logging for API requests and responses
 - Simple and intuitive interface
 
+<!-- Full-width image -->
+<p align="center">
+  <img src="assets/images/1.jpg" alt="Image 2" style="width:100%;">
+</p>
+
 ## Installation
 
 To install the package, use Composer:
