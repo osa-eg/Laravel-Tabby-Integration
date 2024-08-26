@@ -1,4 +1,8 @@
 ## Laravel Tabby Integration
+<!-- Full-width image -->
+<p align="center">
+  <img src="assets/images/1.jpg" alt="Image 2" style="width:100%;">
+</p>
 
 `laravel-tabby-integration` is a Laravel package designed to simplify the integration of the Tabby API into your Laravel applications. It provides an easy-to-use interface for creating checkout sessions, handling payments, managing webhooks, and more.
 
@@ -9,10 +13,7 @@
 - Integrated logging for API requests and responses
 - Simple and intuitive interface
 
-<!-- Full-width image -->
-<p align="center">
-  <img src="assets/images/1.jpg" alt="Image 2" style="width:100%;">
-</p>
+
 
 ## Installation
 
